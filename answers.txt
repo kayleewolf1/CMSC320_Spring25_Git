@@ -1,0 +1,4 @@
+Q1: Why might we consider using Git?
+
+Answer: We should consider using git because it makes it easier for teams to work on code together. It also maintains a history of all the changes made, so if there is ever a need for a previous version we will have it. It also enables branching so coders can work on different features independently.
+
