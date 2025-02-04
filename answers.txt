@@ -1,4 +1,10 @@
+
 Q1: Why might we consider using Git?
 
 Answer: We should consider using git because it makes it easier for teams to work on code together. It also maintains a history of all the changes made, so if there is ever a need for a previous version we will have it. It also enables branching so coders can work on different features independently.
+
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science could be applied to finance to manage risks. For example,they can use it to spot fraud by analyzing transaction patterns. 
 
